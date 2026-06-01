@@ -1,0 +1,24 @@
+{
+  "features": {
+    "chat_enabled": true,
+    "titulacion_enabled": true,
+    "horario_enabled": true,
+    "calificaciones_enabled": true,
+    "inasistencias_enabled": true
+  },
+  "banners": {
+    "offline_title": "Sin conexión - Estás viendo datos locales",
+    "offline_color": "#E53935",
+    "global_notice": "📢 ¡Inscripciones abiertas para el semestre 2024-B! Revisa la sección de trámites.",
+    "global_notice_color": "#D81B60"
+  },
+  "maintenance": {
+    "is_under_maintenance": true,
+    "message": "Estamos actualizando los servidores de calificaciones. Volveremos a las 3:00 PM."
+  },
+  "app_versioning": {
+    "min_version_code": 1,
+    "force_update": false,
+    "store_url": "https://play.google.com/store/apps/details?"
+  }
+}
