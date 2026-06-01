@@ -13,7 +13,7 @@
     "global_notice_color": "#D81B60"
   },
   "maintenance": {
-    "is_under_maintenance": false,
+    "is_under_maintenance": true,
     "message": "Estamos actualizando los servidores de calificaciones. Volveremos a las 3:00 PM."
   },
   "app_versioning": {
