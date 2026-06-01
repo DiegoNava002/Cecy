@@ -1,10 +1,10 @@
 {
   "features": {
-    "chat_enabled": true,
-    "titulacion_enabled": true,
-    "horario_enabled": true,
-    "calificaciones_enabled": true,
-    "inasistencias_enabled": true
+    "chat_enabled": false,
+    "titulacion_enabled": false,
+    "horario_enabled": false,
+    "calificaciones_enabled": false,
+    "inasistencias_enabled": false
   },
   "banners": {
     "offline_title": "Sin conexión - Estás viendo datos locales",
@@ -13,7 +13,7 @@
     "global_notice_color": "#D81B60"
   },
   "maintenance": {
-    "is_under_maintenance": true,
+    "is_under_maintenance": false,
     "message": "Estamos actualizando los servidores de calificaciones. Volveremos a las 3:00 PM."
   },
   "app_versioning": {
