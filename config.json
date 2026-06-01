@@ -4,7 +4,7 @@
     "titulacion_enabled": false,
     "horario_enabled": false,
     "calificaciones_enabled": false,
-    "inasistencias_enabled": false
+    "inasistencias_enabled": true
   },
   "banners": {
     "offline_title": "Sin conexión - Estás viendo datos locales",
